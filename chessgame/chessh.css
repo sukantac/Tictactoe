@@ -1,0 +1,43 @@
+    body {
+        background: url(chessbg.jpg);
+        width: 100%;
+        height: 600px;
+    }
+
+    .red {
+        color: wheat;
+        height: 608px;
+        width: 626px;
+        float: left;
+        margin-left: 336px;
+        margin-top: 27px;
+        margin-bottom: 80px;
+        border: 2 px solid black;
+        display: inline;
+        border-style: solid;
+        border-width: 5px;
+    }
+
+    .child {
+        color: orange;
+        height: 75px;
+        width: 77px;
+        float: left;
+        /*margin: 0.5px;
+        border: 1px solid wheat;*/
+        display: inline;
+        border-style: solid;
+        border-width: 0px;
+    }
+
+    .whiteDiv {
+        background: saddlebrown;
+    }
+
+    .blackDiv {
+        background: sandybrown;
+    }
+
+    .highlight {
+        background: yellow;
+    }
