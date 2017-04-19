@@ -1,0 +1,80 @@
+#root {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: 443px;
+    margin-top: 59px;
+}
+
+#left {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: 332px;
+    margin-top: 59px;
+    float: left;
+}
+
+#right {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: 170px;
+    margin-top: 56px;
+    float: left;
+}
+
+#lol {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: -353px;
+    margin-top: 187px;
+    float: left;
+}
+
+#rol {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: -224px;
+    margin-top: 192px;
+    float: left;
+}
+
+#ror {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: -110px;
+    margin-top: 192px;
+    float: left;
+}
+
+#lor {
+    width: 54px;
+    height: 62px;
+    border: 2px black;
+    background: rgba(0, 31, 255, 0.38);
+    padding: 23px;
+    margin-left: 11px;
+    margin-top: 192px;
+    float: left;
+}
+
+svg {
+    /*margin-left: 0%;*/
+    display: inherit;
+}
