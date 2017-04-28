@@ -1,0 +1,55 @@
+.main{
+	   width: 269px;
+    height: 296px;
+    background: darkcyan;
+    border: 2px solid black;
+    margin-top: 94px;
+    margin-left: 461px;
+
+
+}
+   .overlay{
+
+		 /*visibility: none;*/
+		 width: 269px;
+		height: 296px;
+		background: darkcyan;
+		border: 2px solid black;
+		margin-top: 94px;
+		margin-left: 461px;
+	 }
+  .child{
+color: black;
+    height: 78px;
+    width: 67px;
+    float: left;
+    margin: 9.5px;
+    border: 1px solid black;
+    display: inline;
+    border-style: solid;
+    border-width: 1px;
+    background: white;
+  }
+  .cross{
+	  background-color:white;
+		background: url("blue-cross.png");
+		 background-size: 80px 60px;
+		 background-repeat: no-repeat;
+
+  }
+
+  .round{
+           background: url("round.png");
+					 background-size: 70px 80px;
+					background-repeat: no-repeat;
+	  /*background:yellow;*/
+  }
+	.btn{
+
+		margin-left: 551px;
+	 margin-top: 30px;
+	}
+	  body{
+              background-image: url("bgimage.jpg");
+
+		}
